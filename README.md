@@ -7,4 +7,11 @@
 ![MADE IN INDIA](https://img.shields.io/badge/MADE%20IN%20-Indian-imortant?style=for-the-badge&logo=appveyorp)
 ![20201128_184703](https://user-images.githubusercontent.com/56459297/100516617-1e276900-31ab-11eb-9192-90e05ee29294.jpg)
 
+## Installation
 
+```
+git clone https://github.com/princekrvert/pgt.git
+cd pgt
+chmod +x pgt.sh
+./pgt.sh
+```
