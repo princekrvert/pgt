@@ -22,7 +22,7 @@ echo -e "\e[3${ran};1m
 ██╔═══╝ ██║   ██║  ██║   
 ██║     ╚██████╔╝  ██║      
 ╚═╝      ╚═════╝   ╚═╝\e[3${ran1};1mMADE BY PRINCE
-\e[0m Password generator for termux\e[32;1m V1.0
+\e[0m Password generator for termux\e[32;1m V1.1
 "
 
 }
