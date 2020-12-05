@@ -16,7 +16,8 @@ chmod +x pgt.sh
 ./pgt.sh
 ```
 ***
-![20201128_175817](https://user-images.githubusercontent.com/56459297/100516809-79a62680-31ac-11eb-87aa-f1b1594c24f1.jpg)
+>> New
+![20201205_200940](https://user-images.githubusercontent.com/56459297/101245968-5e9c5f00-3736-11eb-9003-1ce7c20c50f3.jpg)
 
 ***
 ### PLEASE SUBSCRIBE MY YPUTUBE CHANNEL
