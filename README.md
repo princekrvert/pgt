@@ -16,7 +16,7 @@ chmod +x pgt.sh
 ./pgt.sh
 ```
 ***
->> New
+> New
 ![20201205_200940](https://user-images.githubusercontent.com/56459297/101245968-5e9c5f00-3736-11eb-9003-1ce7c20c50f3.jpg)
 
 ***
